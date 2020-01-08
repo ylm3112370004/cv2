@@ -1,0 +1,23 @@
+{
+  "name": "cv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ylm3112370004/cv2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ylm3112370004/cv2/issues"
+  },
+  "homepage": "https://github.com/ylm3112370004/cv2#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
