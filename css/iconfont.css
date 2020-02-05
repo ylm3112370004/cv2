@@ -1,0 +1,52 @@
+
+@font-face {
+    font-family: 'iconfont';  /* project id 1591402 */
+    src: url('//at.alicdn.com/t/font_1591402_hg366att3d.eot');
+    src: url('//at.alicdn.com/t/font_1591402_hg366att3d.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_1591402_hg366att3d.woff2') format('woff2'),
+    url('//at.alicdn.com/t/font_1591402_hg366att3d.woff') format('woff'),
+    url('//at.alicdn.com/t/font_1591402_hg366att3d.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_1591402_hg366att3d.svg#iconfont') format('svg');
+}
+
+.iconfont {
+    font-family: 'iconfont';
+    margin-right: 10px;
+    color: #666;
+}
+
+.icon-personal::after {
+    content: '\e667';
+}
+
+.icon-phone::after {
+    content: '\e601';
+}
+
+.icon-wechat::after {
+    content: '\e618';
+}
+
+.icon-email::after {
+    content: '\e74f';
+}
+
+.icon-education::after {
+    content: '\e8c8';
+}
+
+.icon-skills::after {
+    content: '\e62e';
+}
+
+.icon-map::after {
+    content: '\e65c';
+}
+
+.icon-jobs::after {
+    content: '\e65b';
+}
+
+.icon-projects::after {
+    content: '\e64a';
+}
